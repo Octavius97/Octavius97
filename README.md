@@ -1,7 +1,6 @@
 # Hi there 👋
 
 ## Quien soy
-----------
 Soy estudiante egresado de la carrera de **Ingeniería de Sistemas**. Soy una persona fascinante de la **Programación**, programando en `Python`, `C`, `C++`, `Java`, `C#` y `PowerShell`.
 
 He trabajado como docente de programación en Centro Educativo Sor Maria Romero, enseñando a estudiantes a programar aplicaciones usando `Java` y `C#` con el manejo de Bases de Datos con `SQL`.
